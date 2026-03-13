@@ -1,5 +1,7 @@
 [![revnet badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapp.revnet.eth.sucks%2Fapi%2Fdata%2Fshields%3FprojectId%3D3%26chainId%3D1&query=%24.message&label=Revnet%20Network&cacheSeconds=3600)](https://app.revnet.eth.sucks/base:3)
 
+<!-- MARKEE:START:0x5467826acf707ac99bf20c2f7783f32adc1f100f -->
+<!-- MARKEE:END:0x5467826acf707ac99bf20c2f7783f32adc1f100f -->
 
 This is a [wagmi](https://wagmi.sh) + [ConnectKit](https://docs.family.co/connectkit) + [Next.js](https://nextjs.org) + Tailwind + [Juicebox](https://juicebox.money) project.
 
