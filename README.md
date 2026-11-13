@@ -20,6 +20,9 @@
 
 This is a [wagmi](https://wagmi.sh) + [ConnectKit](https://docs.family.co/connectkit) + [Next.js](https://nextjs.org) + Tailwind + [Juicebox](https://juicebox.money) project.
 
+<!-- MARKEE:START:0xaba1cbaf56d3245ca530302fe88ae6330b2a3c7a -->
+<!-- MARKEE:END:0xaba1cbaf56d3245ca530302fe88ae6330b2a3c7a -->
+
 # Getting Started
 
 1. Create a `.env` file and set environment variables (use `.env.example` as a starting point).
