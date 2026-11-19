@@ -20,24 +20,23 @@
 
 This is a [wagmi](https://wagmi.sh) + [ConnectKit](https://docs.family.co/connectkit) + [Next.js](https://nextjs.org) + Tailwind + [Juicebox](https://juicebox.money) project.
 
-<!-- MARKEE:START:0xaba1cbaf56d3245ca530302fe88ae6330b2a3c7a -->
+<!-- MARKEE:START:0x39287b69d794a159d0d923f170494a6fc5f9fe0e -->
 ```
   ╔══════════════════════════════════════════════════════╗
   ║                  ⡷⢾ ⣎⣱ ⣏⡱ ⣇⠜ ⣏⡉ ⣏⡉                 ║
   ║                  ⠇⠸ ⠇⠸ ⠇⠱ ⠇⠱ ⠧⠤ ⠧⠤                 ║
   ╠══════════════════════════════════════════════════════╣
   ║                                                      ║
-  ║   first is the worst, second is the best, third is   ║
-  ║   the one with the treasure chest.                   ║
+  ║   This space is available!                           ║
   ║                                                      ║
   ╠══════════════════════════════════════════════════════╣
-  ║          Stream over 0.001 ETH/mo to change          ║
+  ║        Stream from 0.001 ETH/mo to add yours         ║
   ╚══════════════════════════════════════════════════════╝
                  ││                      ││
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
-*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/markee/0xaba1cbaf56d3245ca530302fe88ae6330b2a3c7a) ^*
-<!-- MARKEE:END:0xaba1cbaf56d3245ca530302fe88ae6330b2a3c7a -->
+*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/markee/0x39287b69d794a159d0d923f170494a6fc5f9fe0e) ^*
+<!-- MARKEE:END:0x39287b69d794a159d0d923f170494a6fc5f9fe0e -->
 
 # Getting Started
 
