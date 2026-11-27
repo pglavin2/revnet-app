@@ -7,11 +7,10 @@
   ║                  ⠇⠸ ⠇⠸ ⠇⠱ ⠇⠱ ⠧⠤ ⠧⠤                 ║
   ╠══════════════════════════════════════════════════════╣
   ║                                                      ║
-  ║   first is the worst, second is the best, third is   ║
-  ║   the one with the treasure chest.                   ║
+  ║   This space is available!                           ║
   ║                                                      ║
   ╠══════════════════════════════════════════════════════╣
-  ║          Stream over 0.001 ETH/mo to change          ║
+  ║        Stream from 0.001 ETH/mo to add yours         ║
   ╚══════════════════════════════════════════════════════╝
                  ││                      ││
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
